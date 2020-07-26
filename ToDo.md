@@ -1,2 +1,4 @@
 # To DO
-- Complete Tutorial
+- Integrate MongoDB
+- Complete the backend
+- Complete the front-end
