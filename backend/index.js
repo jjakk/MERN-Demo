@@ -27,8 +27,8 @@ const exercisesRouter = require('./routers/exercises.js');
 const usersRouter = require('./routers/users.js');
 
 app.use('/exercises', exercisesRouter);
-app.use('users', usersRouter);
+app.use('/users', usersRouter);
 
-app.listen(() => {
+app.listen(port, () => {
   console.log(`Running on port ${port}`);
-}, port);
+});
