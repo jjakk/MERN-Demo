@@ -1,4 +1,4 @@
 # To DO
 - Integrate MongoDB
-- Complete the backend
-- Complete the front-end
+- Complete the backend (Nodejs & Express)
+- Complete the front-end (React)
